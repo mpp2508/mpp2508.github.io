@@ -1,6 +1,6 @@
 ---
 title: mpp2508
-layout: mpp2508
+layout: home
 nav_order: 1
 nav_exclude: true
 description: "модульное портативное прототипирование 2мм отверстие, 5,08мм шаг"
