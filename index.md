@@ -1,9 +1,9 @@
 ---
-title: mpp2508
-layout: mpp2508
+title: Home
+layout: home
 nav_order: 1
 nav_exclude: true
-description: "модульное портативное прототипирование 2мм отверстие, 5,08мм шаг"
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
