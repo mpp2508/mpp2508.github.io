@@ -4,12 +4,7 @@ parent: правила
 nav_order: 2
 ---
 
+Длина межплатных стоек обусловлена растоянием между двух плат, соединенных PLS штирями и ответной частью. Размер винтов подобран максимальным, при котором две платы толщиной 1.6мм возможно скрепить на монтажную стойку так, что бы винты не уперлись друг в друга. Следует хранить запас и того и другого не менее 200 стоек и двойного количества винтов.
 
-## Table of contents
-
-
-
-All the colors used in Just the Docs have been systematized into a series of variables that have been extended to both font color and background color utility classes.
-
-## Light Greys
+![](../img/metiz.png)
 

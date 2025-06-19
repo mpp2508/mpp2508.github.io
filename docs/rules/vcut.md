@@ -4,22 +4,7 @@ parent: правила
 nav_order: 4
 ---
 
+ㅤПри разделения панелизированных с применением V-CUT плат модулей, фактические размеры плат увеличатся по причине торчащих волокон с торца платы. Это приведет к сложностям с установкой модулей встык. Поэтому нужна либо дополнительная механическая обработка платы, либо на учитывать это на этапе проектирования. Предварительное уменьшение размера платы, по сравнению с основной размерностью на 12 mil достаточно для нормальной установки встык без дополнительной механической обработки.
 
-## Table of contents
+![](../img/vcut.png)
 
-
-
-
-All the colors used in Just the Docs have been systematized into a series of variables that have been extended to both font color and background color utility classes.
-
-## Light Greys
-
-![](img/vcut.jpg)
-
-![](img/vcut.png)
-
-### Small image
-
-![](../../../assets/images/small-image.jpg)
-![](vcut.png)
-![](vcut.jpg)
