@@ -5,7 +5,7 @@ on: workflow_dispatch
 jobs:
   build:
     name: Publish
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 #ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4

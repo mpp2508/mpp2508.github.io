@@ -40,7 +40,7 @@ jobs:
 
   github-pages-build:
     name: Build (github-pages gem)
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 #ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Setup Ruby
@@ -63,7 +63,7 @@ jobs:
       fail-fast: false
       matrix:
         ruby-version: ["3.4"]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 #ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
@@ -92,7 +92,7 @@ jobs:
 
   assets:
     name: Test CSS and JS
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 #ubuntu-latest
 
     strategy:
       matrix:
