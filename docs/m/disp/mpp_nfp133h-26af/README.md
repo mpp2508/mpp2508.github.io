@@ -1,10 +1,8 @@
-﻿# 1.3inch LCD Module 240\*240
+﻿NFP133H-26AF
 
 
-NFP133H-26AF
-
-
-![](/img/001.PNG)
+![](img/001.png)
+![](img/002.png)
 
 
 

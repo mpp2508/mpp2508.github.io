@@ -1,15 +1,12 @@
 ---
 title: Соединения
 parent: правила
-nav_order: 5
+nav_order: 50
 ---
 
 
-## Table of contents
+модули устанавливаются на стойки m2x11 и крепятся винтами m2x6 соединяются dupont или PLS перемычками
 
+![](../img/connection.png)
 
-
-All the colors used in Just the Docs have been systematized into a series of variables that have been extended to both font color and background color utility classes.
-
-## Light Greys
 
