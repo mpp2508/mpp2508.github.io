@@ -16,7 +16,7 @@
 title: mpp2508
 description: modular portable prototyping
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mpp2508.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
@@ -55,6 +55,13 @@ exclude:
   - Dockerfile
   # theme test code
   - fixtures/
+
+
+  # 
+
+
+
+
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
