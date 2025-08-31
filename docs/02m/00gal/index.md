@@ -14,7 +14,6 @@ nav_order: 0
 [![](img/img_8_001.png)](../disp/mpp_led8x2/)
 [![](img/img_9_001.png)](../disp/mpp_led8x2ds/)
 [![](img/img_10_001.png)](../disp/mpp_nfp133h-26af/)
-[![](img/img_11_001.png)](../drv/bldc/mpp_drv8313/)
 [![](img/img_15_001.png)](../drv/i/485/mpp_tda51s485hc/)
 [![](img/img_20_001.png)](../mcu/arm/mpp_stm32f103cxtx/)
 [![](img/img_21_001.png)](../mcu/arm/mpp_stm32f401cxux/)

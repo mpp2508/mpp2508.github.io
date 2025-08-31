@@ -3,3 +3,5 @@
 Прошивка возможна как и через SWD, так и через встроенный uart бутлоадер и утилиту [STM32 Flash loader demonstrator](https://www.st.com/en/development-tools/flasher-stm32.html#overview) .
 
 ![](img/001.png)
+
+![](img/002.png)
