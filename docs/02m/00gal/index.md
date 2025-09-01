@@ -21,6 +21,7 @@ nav_order: 0
 [![](img/img_23_001.png)](../mcu/arm/mpp_stm32g070cxtx/)
 [![](img/img_24_001.png)](../mcu/arm/mpp_stm32g431cxtx/)
 [![](img/img_30_001.png)](../oth/mpp_ad9833/)
+[![](img/img_33_001.png)](../oth/mpp_si5351/)
 [![](img/img_35_001.png)](../prg_dbg/00progr/mpp_stlink_v2x1/)
 [![](img/img_36_001.png)](../prg_dbg/00progr/mpp_stlink_v2x1_fw_jig/)
 [![](img/img_38_001.png)](../prg_dbg/mpp_cy7c68013a_la/)
