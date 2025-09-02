@@ -6,6 +6,9 @@ nav_exclude: true
 description: "модульное портативное прототипирование 2мм отверстие, 5,08мм шаг"
 permalink: /
 ---
+[Support via Patreon](https://www.patreon.com/c/mpp2508)
+
+
 
 ![](docs/img/001.JPEG)
 
@@ -29,5 +32,7 @@ permalink: /
 Разнообразие совместимых модулей увеличивает возможности. Под совместимостью подразумевается соответствие правилам. Минимальный уровень совместимости, это крепежные отвестия 2мм с шагом 5,08мм и соеденительные pls запаянные вверх. Для всего остального разнообразия модулей есть [адаптеры]({{site.baseurl}}/docs/m/adap/)  позволяющие их крепить к основе.
 
 
+
+[discussion on eevblog.com](https://www.eevblog.com/forum/projects/modular-portable-prototyping/)
 
 
