@@ -33,6 +33,3 @@ permalink: /
 
 
 
-[discussion on eevblog.com](https://www.eevblog.com/forum/projects/modular-portable-prototyping/)
-
-
