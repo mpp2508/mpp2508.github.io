@@ -1,1 +1,23 @@
-// custom SCSS (or CSS) goes here
+.main {
+  max-width: 900px !important;
+  margin-left: -40px; // сдвигает контент влево на 40px
+}
+
+
+@media (min-width: 50em) {
+  .main {
+    // padding-left: 260px; // ширина вашей боковой панели
+  }
+}
+
+.img-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  place-items: center; // центрирует содержимое ячеек по горизонтали и вертикали
+}
+.img-grid img {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+}

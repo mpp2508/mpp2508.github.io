@@ -120,8 +120,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "mpp2508 on GitHub":
-    - "https://github.com/mpp2508?tab=repositories"
+  "Support via Patreon":
+    - "https://www.patreon.com/c/mpp2508"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -217,3 +217,8 @@ compress_html:
 sass:
   quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
   silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
+
+just_the_docs: 
+  custom_css: _sass/custom/custom.scss
+
+
