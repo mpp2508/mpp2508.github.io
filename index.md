@@ -7,6 +7,7 @@ description: "модульное портативное прототипиров
 permalink: /
 ---
 
+
 <span style="font-size:2.5em;">mpp2508 - modular portable prototyping</span>
 <div class="img-grid">
     <img src="docs/01rul/img/dimension.png" alt="">
