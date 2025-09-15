@@ -120,6 +120,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
+  "YouTube":
+    - "https://www.youtube.com/@diy.mpp2508"
   "GitHub":
     - "https://github.com/mpp2508"
   "Support via Patreon":
