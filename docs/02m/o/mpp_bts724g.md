@@ -1,6 +1,6 @@
 ---
 title: BTS724G
-parent: вывод
+parent: output
 nav_order: 0
 ---
 # [Отладочная на {{page.title}}](https://github.com/mpp2508/{{page.path|split:'/'|last|split:'.'|first}})

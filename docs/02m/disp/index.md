@@ -1,7 +1,7 @@
 ---
 title: индикация
-parent: модули
-nav_order: 500
+parent: modules
+nav_order: 1000
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: аналоговый
-parent: ввод
-nav_order: 10
+title: analog
+parent: input
+nav_order: 0
 ---
 

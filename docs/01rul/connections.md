@@ -1,6 +1,6 @@
 ---
-title: Соединения
-parent: правила
+title: connections
+parent: guidelines
 nav_order: 50
 ---
 

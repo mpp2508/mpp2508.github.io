@@ -1,5 +1,5 @@
 ---
-title: правила
+title: guidelines
 nav_order: 20
 ---
 

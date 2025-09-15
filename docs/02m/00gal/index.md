@@ -1,6 +1,6 @@
 ---
-title: галерея
-parent: модули
+title: gallery
+parent: modules
 nav_order: 0
 ---
 
@@ -15,15 +15,16 @@ nav_order: 0
 [![](img/img_10_001.png)](../disp/mpp_led8x2ds/)
 [![](img/img_11_001.png)](../disp/mpp_nfp133h-26af/)
 [![](img/img_16_001.png)](../drv/i/485/mpp_tda51s485hc/)
-[![](img/img_19_001.png)](../i/m/mpp_ec11_hc14a/)
-[![](img/img_21_001.png)](../mcu/arm/mpp_stm32f103cxtx/)
-[![](img/img_22_001.png)](../mcu/arm/mpp_stm32f401cxux/)
-[![](img/img_23_001.png)](../mcu/arm/mpp_stm32g070cxtx/)
-[![](img/img_24_001.png)](../mcu/arm/mpp_stm32g431cxtx/)
-[![](img/img_26_001.png)](../mcu/avr/mpp_atmega8_dip/)
-[![](img/img_27_001.png)](../mcu/avr/mpp_atmega8_smd/)
-[![](img/img_33_001.png)](../oth/mpp_ad9833/)
-[![](img/img_36_001.png)](../oth/mpp_si5351/)
-[![](img/img_38_001.png)](../prg_dbg/00progr/mpp_stlink_v2x1/)
-[![](img/img_39_001.png)](../prg_dbg/00progr/mpp_stlink_v2x1_fw_jig/)
-[![](img/img_41_001.png)](../prg_dbg/mpp_cy7c68013a_la/)
+[![](img/img_17_001.png)](../drv/i/eth/mpp_w5500/)
+[![](img/img_20_001.png)](../i/m/mpp_ec11_hc14a/)
+[![](img/img_22_001.png)](../mcu/arm/mpp_stm32f103cxtx/)
+[![](img/img_23_001.png)](../mcu/arm/mpp_stm32f401cxux/)
+[![](img/img_24_001.png)](../mcu/arm/mpp_stm32g070cxtx/)
+[![](img/img_25_001.png)](../mcu/arm/mpp_stm32g431cxtx/)
+[![](img/img_27_001.png)](../mcu/avr/mpp_atmega8_dip/)
+[![](img/img_28_001.png)](../mcu/avr/mpp_atmega8_smd/)
+[![](img/img_34_001.png)](../oth/mpp_ad9833/)
+[![](img/img_37_001.png)](../oth/mpp_si5351/)
+[![](img/img_39_001.png)](../tools/00progr/mpp_stlink_v2x1/)
+[![](img/img_40_001.png)](../tools/00progr/mpp_stlink_v2x1_fw_jig/)
+[![](img/img_42_001.png)](../tools/mpp_cy7c68013a_la/)

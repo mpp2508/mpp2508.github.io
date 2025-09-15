@@ -1,6 +1,6 @@
 ---
-title: ВЧ соединения
-parent: правила
+title: RF connections
+parent: guidelines
 nav_order: 50
 ---
 

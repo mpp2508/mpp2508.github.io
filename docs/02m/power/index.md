@@ -1,8 +1,6 @@
 ---
-title: питание
-parent: модули
-nav_order: 700
+title: power
+parent: modules
+nav_order: 1000
 ---
 
-
-питание

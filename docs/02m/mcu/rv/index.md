@@ -1,7 +1,7 @@
 ---
 title: RISC-V
-parent: микроконтроллеры
-nav_order: 10
+parent: MCU
+nav_order: 0
 ---
 
 

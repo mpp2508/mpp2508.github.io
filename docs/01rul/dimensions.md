@@ -1,6 +1,6 @@
 ---
-title: размеры
-parent: правила
+title: dimensions
+parent: guidelines
 nav_order: 30
 ---
 

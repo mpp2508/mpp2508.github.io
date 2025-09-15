@@ -1,6 +1,6 @@
 ---
 title: ARM
-parent: микроконтроллеры
+parent: MCU
 nav_order: 0
 ---
 

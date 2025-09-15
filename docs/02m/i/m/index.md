@@ -1,6 +1,6 @@
 ---
 title: ручной
-parent: ввод
+parent: input
 nav_order: 10
 ---
 

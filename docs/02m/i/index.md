@@ -1,6 +1,6 @@
 ---
-title: ввод
-parent: модули
-nav_order: 200
+title: input
+parent: modules
+nav_order: 1000
 ---
 

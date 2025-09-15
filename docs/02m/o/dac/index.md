@@ -1,6 +1,6 @@
 ---
-title: ЦАП
-parent: вывод
+title: DAC
+parent: output
 nav_order: 0
 ---
 

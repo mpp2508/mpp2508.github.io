@@ -1,7 +1,7 @@
 ---
 title: драйвера
-parent: модули
-nav_order: 400
+parent: modules
+nav_order: 1000
 ---
 
 

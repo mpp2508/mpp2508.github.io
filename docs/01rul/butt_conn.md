@@ -1,6 +1,6 @@
 ---
-title: соединение встык
-parent: правила
+title: butt connection
+parent: guidelines
 nav_order: 60
 ---
 

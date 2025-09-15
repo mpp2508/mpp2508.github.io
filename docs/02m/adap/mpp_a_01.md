@@ -1,6 +1,6 @@
 ---
 title: mpp_a_01
-parent: адаптеры
+parent: adapters
 nav_order: 100
 ---
 # [Адаптер модулей для беспаечных макеток](https://github.com/mpp2508/{{page.path|split:'/'|last|split:'.'|first}})

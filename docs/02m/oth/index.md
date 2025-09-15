@@ -1,7 +1,7 @@
 ---
 title: разное
-parent: модули
-nav_order: 1800
+parent: modules
+nav_order: 20000
 ---
 
 

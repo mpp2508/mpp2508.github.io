@@ -1,6 +1,6 @@
 ---
 title: V-CUT
-parent: правила
+parent: guidelines
 nav_order: 40
 ---
 

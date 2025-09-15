@@ -1,6 +1,6 @@
 ---
-title: наименование модулей
-parent: правила
+title: naming
+parent: guidelines
 nav_order: 10
 ---
 Наименование модулей mpp2508

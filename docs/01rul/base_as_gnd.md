@@ -1,6 +1,6 @@
 ---
-title: основа и напряжение
-parent: правила
+title: baseplate as GND
+parent: guidelines
 nav_order: 50
 ---
 

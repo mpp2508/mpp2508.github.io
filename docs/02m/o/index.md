@@ -1,7 +1,7 @@
 ---
-title: вывод
-parent: модули
-nav_order: 300
+title: output
+parent: modules
+nav_order: 1000
 ---
 
 

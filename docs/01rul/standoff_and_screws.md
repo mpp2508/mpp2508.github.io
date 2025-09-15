@@ -1,6 +1,6 @@
 ---
-title: стойки и винты
-parent: правила
+title: standoff&screws
+parent: guidelines
 nav_order: 20
 ---
 

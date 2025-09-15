@@ -1,5 +1,5 @@
 ---
-title: хранение
+title: inventory
 nav_order: 50
 ---
 

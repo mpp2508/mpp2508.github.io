@@ -1,6 +1,6 @@
 ---
-title: распиновка, цвета
-parent: правила
+title: pinout colors
+parent: guidelines
 nav_order: 81
 ---
 ㅤНумерация слева на право, если смотреть на торец платы, штири вверх.

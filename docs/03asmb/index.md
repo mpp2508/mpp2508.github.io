@@ -1,5 +1,5 @@
 ---
-title: сборки
+title: assemblies
 nav_order: 40
 ---
 
