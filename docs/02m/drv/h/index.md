@@ -1,6 +1,6 @@
 ---
 title: H-мост
-parent: драйвера
+parent: drivers
 nav_order: 10
 ---
 

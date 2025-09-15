@@ -1,6 +1,6 @@
 ---
 title: катушек
-parent: драйвера
+parent: drivers
 nav_order: 0
 ---
 

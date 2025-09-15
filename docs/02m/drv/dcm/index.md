@@ -1,6 +1,6 @@
 ---
 title: ДПТ
-parent: драйвера
+parent: drivers
 nav_order: 10
 ---
 

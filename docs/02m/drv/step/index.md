@@ -1,6 +1,6 @@
 ---
 title: шаговых двигателей
-parent: драйвера
+parent: drivers
 nav_order: 10
 ---
 
