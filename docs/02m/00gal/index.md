@@ -1,6 +1,6 @@
 ---
 title: gallery
-parent: модули
+parent: modules
 nav_order: 0
 ---
 
