@@ -38,7 +38,7 @@ module Jekyll
       header = <<~HEREDOC
       ---
       title: gallery
-      parent: модули
+      parent: modules
       nav_order: 0
       ---
       HEREDOC

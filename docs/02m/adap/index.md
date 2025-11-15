@@ -1,8 +1,8 @@
 ---
 title: adapters
 parent: modules
-nav_order: 100
+nav_order: adapters
 ---
-адаптеры
+
 
 

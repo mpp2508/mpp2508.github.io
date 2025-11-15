@@ -1,7 +1,7 @@
 ---
 title: misc
 parent: modules
-nav_order: 20000
+nav_order: misc
 ---
 
 
