@@ -1,5 +1,5 @@
 ---
-title: pinout colors
+title: pinout, colors
 parent: guidelines
 nav_order: 81
 ---
@@ -22,5 +22,7 @@ nav_order: 81
 |RS485		|красный	|GND	|A		|B		|GND	|
 |CAN		|красный	|GND	|CANH	|CANL	|GND	|
 |DC-DC		|красный	|GND	|IN	    |IN	    |GND	|
+|I2C dev    |       	|GND	|SCL	|SDA	|Vcc	|
+
 
 ![](../img/pls.png)
