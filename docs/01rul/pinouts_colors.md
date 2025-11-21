@@ -22,7 +22,7 @@ nav_order: 81
 |RS485		|красный	|GND	|A		|B		|GND	|
 |CAN		|красный	|GND	|CANH	|CANL	|GND	|
 |DC-DC		|красный	|GND	|IN	    |IN	    |GND	|
-|I2C dev    |       	|GND	|SCL	|SDA	|Vcc	|
+|I2C dev    |       	|Vcc	|SDA	|SCL	|GND	|
 
 
 ![](../img/pls.png)
