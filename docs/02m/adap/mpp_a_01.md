@@ -1,5 +1,5 @@
 ---
-title: mpp_a_01
+title: a_01
 parent: adapters
 nav_order: 0
 ---

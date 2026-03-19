@@ -1,5 +1,5 @@
 ---
-title: Baseplate 20U20
+title: bs2020
 parent: baseplate
 nav_order: 0
 ---
