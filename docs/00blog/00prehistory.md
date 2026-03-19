@@ -5,7 +5,7 @@ nav_order: 10
 ---
 
 {% capture en_content %}
-{% include_relative {{page.path|split:'/'|last|split:'.'|first}}/README_EN.md %}
+{% include_relative {{page.path|split:'/'|last|split:'.'|first}}/RDM_EN.md %}
 {% endcapture %}
 <details markdown="1">
   <summary>EN</summary>

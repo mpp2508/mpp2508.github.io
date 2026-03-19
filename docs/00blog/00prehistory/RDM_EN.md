@@ -1,3 +1,5 @@
+
+
 ## ㅤPrehistory
 ㅤAbout ten years ago, I worked at a company producing industrial equipment. In control cabinets, I always tried to use purchased products. But there came a time when I couldn’t find a device on the automation market that solved the task for a reasonable price. The closest solution looked like using a microscope to hammer nails. This situation forced me to start DIY.
 
