@@ -1,5 +1,5 @@
 ---
-title: connectors
+title: breakout
 parent: modules
-nav_order: connectors
+nav_order: breakout
 ---

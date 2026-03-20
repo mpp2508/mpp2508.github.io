@@ -1,7 +1,7 @@
 ---
-title: Модуль индикации 8-канальный
+title: 8-chn led
 parent: displays
-nav_order: 100000
+nav_order: 8-chn led
 ---
 # [{{page.title}}](https://github.com/mpp2508/{{page.path|split:'/'|last|split:'.'|first}})
 {% include_relative {{page.path|split:'/'|last|split:'.'|first}}/README.md %}
