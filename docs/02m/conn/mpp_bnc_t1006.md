@@ -1,5 +1,5 @@
 ---
-title: BNC T1006
+title: BNC T1006 (60)
 parent: breakout
 nav_order: 0
 ---

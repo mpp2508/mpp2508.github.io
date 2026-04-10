@@ -1,5 +1,5 @@
 ---
-title: STM32F103ZxTx
+title: STM32F103ZxTx (250)
 parent: ARM
 nav_order: 0
 ---

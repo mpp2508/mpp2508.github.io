@@ -1,5 +1,5 @@
 ---
-title: TDA51S485HC
+title: TDA51S485HC (200)
 parent: RS485
 nav_order: 0
 ---

@@ -1,5 +1,5 @@
 ---
-title: a_qwiic_pls
+title: a_qwiic_pls (40)
 parent: adapters
 nav_order: 0
 ---

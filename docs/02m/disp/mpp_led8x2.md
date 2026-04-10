@@ -1,5 +1,5 @@
 ---
-title: 8-chn led
+title: 8-chn led (50)
 parent: displays
 nav_order: 8-chn led
 ---

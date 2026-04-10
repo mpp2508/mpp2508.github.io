@@ -1,5 +1,5 @@
 ---
-title: SD Сard
+title: SD Сard (60)
 parent: breakout
 nav_order: 0
 ---

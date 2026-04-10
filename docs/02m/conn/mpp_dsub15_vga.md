@@ -1,5 +1,5 @@
 ---
-title: DSUB 15 pin VGA
+title: DSUB 15 pin VGA (80)
 parent: breakout
 nav_order: 0
 ---

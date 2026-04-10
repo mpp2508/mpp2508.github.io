@@ -1,5 +1,5 @@
 ---
-title: Micro SD TF-01A
+title: Micro SD TF-01A (60)
 parent: breakout
 nav_order: 0
 ---

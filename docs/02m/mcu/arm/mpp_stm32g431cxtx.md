@@ -1,5 +1,5 @@
 ---
-title: STM32G431CxTx
+title: STM32G431CxTx (250)
 parent: ARM
 nav_order: 40
 ---

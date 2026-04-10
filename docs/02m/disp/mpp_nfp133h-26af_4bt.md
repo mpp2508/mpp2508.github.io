@@ -1,5 +1,5 @@
 ---
-title: NFP133H-26AF 4bt
+title: NFP133H-26AF 4bt (220)
 parent: displays
 nav_order: NFP133H-26AF 4bt
 ---

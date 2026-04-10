@@ -1,5 +1,5 @@
 ---
-title: USB-A vertical
+title: USB-A vertical (50)
 parent: breakout
 nav_order: 0
 ---

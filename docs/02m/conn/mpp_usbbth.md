@@ -1,5 +1,5 @@
 ---
-title: USB-B
+title: USB-B (50)
 parent: breakout
 nav_order: 0
 ---

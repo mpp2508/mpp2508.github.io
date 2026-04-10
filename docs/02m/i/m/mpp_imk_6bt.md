@@ -1,5 +1,5 @@
 ---
-title: mpp_imk_6bt
+title: mpp_imk_6bt (50)
 parent: ручной
 nav_order: 0
 ---

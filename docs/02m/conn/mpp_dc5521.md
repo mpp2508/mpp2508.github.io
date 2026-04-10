@@ -1,5 +1,5 @@
 ---
-title: ВС5521
+title: ВС5521 (60)
 parent: breakout
 nav_order: 0
 ---

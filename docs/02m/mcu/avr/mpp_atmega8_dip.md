@@ -1,5 +1,5 @@
 ---
-title: ATmega8(dip)
+title: ATmega8(dip) (200)
 parent: AVR
 nav_order: 30
 ---

@@ -1,5 +1,5 @@
 ---
-title: STM32F401CxUx
+title: STM32F401CxUx (200)
 parent: ARM
 nav_order: 20
 ---

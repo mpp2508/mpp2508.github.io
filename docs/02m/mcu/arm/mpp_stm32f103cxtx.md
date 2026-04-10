@@ -1,5 +1,5 @@
 ---
-title: STM32F103CxTx
+title: STM32F103CxTx (150)
 parent: ARM
 nav_order: 10
 ---

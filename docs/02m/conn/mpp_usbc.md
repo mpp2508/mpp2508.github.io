@@ -1,5 +1,5 @@
 ---
-title: USB-C
+title: USB-C (50)
 parent: breakout
 nav_order: 0
 ---

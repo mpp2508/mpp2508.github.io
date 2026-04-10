@@ -1,5 +1,5 @@
 ---
-title: a_plate_1x1
+title: a_plate_1x1 (20)
 parent: adapters
 nav_order: 0
 ---

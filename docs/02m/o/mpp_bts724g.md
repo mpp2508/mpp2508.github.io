@@ -1,5 +1,5 @@
 ---
-title: BTS724G
+title: BTS724G (160)
 parent: output
 nav_order: 0
 ---
