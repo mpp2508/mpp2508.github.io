@@ -7,6 +7,11 @@ description: "модульное портативное прототипиров
 permalink: /
 ---
 
+#### "Developing firmware without hardware is like sculpting from a photograph."
+
+## mpp2508 is a set of design rules for creating compatible modules used to assemble monolithic device prototypes.
+### mpp2508: follow the rules, build compatible modules. The more compatible modules we have, the more possibilities we unlock.
+##### #mpp2508 — a hashtag for distributing and sharing compatible modules.
 
 <span style="font-size:2.5em;">mpp2508 - modular portable prototyping</span>
 <div class="img-grid">
@@ -40,12 +45,12 @@ permalink: /
 <!-- ![](docs/img/001.JPEG) -->
 
 
-### mpp2508 - это некоторый набор правил разработки совместимых модулей, из которых собираются монолитные прототипы электронных устройств.
+
+### mpp2508 - это некоторый набор правил разработки совместимых модулей, из которых собираются монолитные прототипы устройств.
+
+### mpp2508 - используйте правила, делайте совместимые модули, больше совместимых модулей - больше возможностей.
 
 ### #mpp2508 - хештег для распрастранения совместимых модулей.
-
-### mpp2508 - открытый проект, используйте правила, делайте совместимые модули, больше совместимых модулей - больше возможностей.
-
 
 ## Механическая монолитность позволяет:
 
