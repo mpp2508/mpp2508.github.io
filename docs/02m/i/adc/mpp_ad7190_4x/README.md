@@ -1,4 +1,3 @@
-﻿![](img/001.png)
+﻿
 
-![](img/002.png)
-
+{% include mpp_pngjpg.html %}

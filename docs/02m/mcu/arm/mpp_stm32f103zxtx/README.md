@@ -1,4 +1,4 @@
 ﻿
-![render](img/001.png)
 
-![real](img/002.png)
+
+{% include mpp_pngjpg.html %}

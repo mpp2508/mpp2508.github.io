@@ -1,5 +1,5 @@
 ---
-title: mpp_qwerty
+title: qwerty
 parent: ручной
 nav_order: 0
 ---

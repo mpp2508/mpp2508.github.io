@@ -1,6 +1,6 @@
 ---
 title: USB to UART
-parent: разработка
+parent: tools
 nav_order: 10
 ---
 
