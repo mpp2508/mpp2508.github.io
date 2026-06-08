@@ -120,11 +120,11 @@ module Jekyll
               Jekyll.logger.info "GG:", "img: #{img}, rel_path: #{rel_path}, folder_link: #{folder_link}"
 
               f.puts "  <!-- Ячейка #{cell_index} -->"
-              f.puts %Q(  <div style="display: flex; justify-content: center; align-items: center; background: #f9f9f9; padding: 10px; min-height: 250px;">)
+              f.puts %Q(  <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">)
               f.puts %Q(    <a href="#{folder_link}"><img src="#{rel_path}" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>)
               f.puts "  </div>"
             else
-              f.puts %Q(  <div style="display: flex; justify-content: center; align-items: center; background: #f9f9f9; padding: 10px; min-height: 250px;"></div>)
+              f.puts %Q(  <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;"></div>)
             end
             cell_index += 1
           end
