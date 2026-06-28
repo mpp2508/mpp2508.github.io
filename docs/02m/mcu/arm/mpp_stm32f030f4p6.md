@@ -1,5 +1,5 @@
 ---
-title: STM32F030FxPx
+title: STM32F030F4P6
 parent: ARM
 nav_order: 0
 ---

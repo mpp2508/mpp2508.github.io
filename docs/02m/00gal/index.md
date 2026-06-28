@@ -137,241 +137,249 @@ nav_order: 0
   </div>
   <!-- Ячейка 35 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_led8x2/"><img src="./img/disp/mpp_led8x2/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../dcdc/tps5430/"><img src="./img/dcdc/tps5430/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 36 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_led8x2/"><img src="./img/disp/mpp_led8x2/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../dcdc/tps5430/"><img src="./img/dcdc/tps5430/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 37 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_led8x2ds/"><img src="./img/disp/mpp_led8x2ds/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_led8x2/"><img src="./img/disp/mpp_led8x2/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 38 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_led8x2ds/"><img src="./img/disp/mpp_led8x2ds/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_led8x2/"><img src="./img/disp/mpp_led8x2/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 39 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_nfp133h-26af/"><img src="./img/disp/mpp_nfp133h-26af/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_led8x2ds/"><img src="./img/disp/mpp_led8x2ds/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 40 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_nfp133h-26af/"><img src="./img/disp/mpp_nfp133h-26af/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_led8x2ds/"><img src="./img/disp/mpp_led8x2ds/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 41 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_nfp133h-26af_4bt/"><img src="./img/disp/mpp_nfp133h-26af_4bt/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_nfp133h-26af/"><img src="./img/disp/mpp_nfp133h-26af/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 42 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../disp/mpp_nfp133h-26af_4bt/"><img src="./img/disp/mpp_nfp133h-26af_4bt/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_nfp133h-26af/"><img src="./img/disp/mpp_nfp133h-26af/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 43 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../drv/h/mpp_DRV8874/"><img src="./img/drv/h/mpp_DRV8874/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_nfp133h-26af_4bt/"><img src="./img/disp/mpp_nfp133h-26af_4bt/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 44 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../drv/h/mpp_DRV8874/"><img src="./img/drv/h/mpp_DRV8874/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../disp/mpp_nfp133h-26af_4bt/"><img src="./img/disp/mpp_nfp133h-26af_4bt/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 45 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../drv/i/485/mpp_tda51s485hc/"><img src="./img/drv/i/485/mpp_tda51s485hc/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../drv/h/mpp_DRV8874/"><img src="./img/drv/h/mpp_DRV8874/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 46 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../drv/i/485/mpp_tda51s485hc/"><img src="./img/drv/i/485/mpp_tda51s485hc/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../drv/h/mpp_DRV8874/"><img src="./img/drv/h/mpp_DRV8874/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 47 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../drv/led/mpp_pt4115/"><img src="./img/drv/led/mpp_pt4115/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../drv/i/485/mpp_tda51s485hc/"><img src="./img/drv/i/485/mpp_tda51s485hc/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 48 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../drv/led/mpp_pt4115/"><img src="./img/drv/led/mpp_pt4115/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../drv/i/485/mpp_tda51s485hc/"><img src="./img/drv/i/485/mpp_tda51s485hc/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 49 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/a/mpp_ia_20ma10v_ina226/"><img src="./img/i/a/mpp_ia_20ma10v_ina226/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../drv/led/mpp_pt4115/"><img src="./img/drv/led/mpp_pt4115/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 50 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/a/mpp_ia_20ma10v_ina226/"><img src="./img/i/a/mpp_ia_20ma10v_ina226/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../drv/led/mpp_pt4115/"><img src="./img/drv/led/mpp_pt4115/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 51 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/adc/mpp_ad7190_4x/"><img src="./img/i/adc/mpp_ad7190_4x/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/a/mpp_ia_20ma10v_ina226/"><img src="./img/i/a/mpp_ia_20ma10v_ina226/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 52 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/adc/mpp_ad7190_4x/"><img src="./img/i/adc/mpp_ad7190_4x/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/a/mpp_ia_20ma10v_ina226/"><img src="./img/i/a/mpp_ia_20ma10v_ina226/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 53 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/d/mpp_tlp290_24vin/"><img src="./img/i/d/mpp_tlp290_24vin/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/adc/mpp_ad7190_4x/"><img src="./img/i/adc/mpp_ad7190_4x/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 54 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/d/mpp_tlp290_24vin/"><img src="./img/i/d/mpp_tlp290_24vin/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/adc/mpp_ad7190_4x/"><img src="./img/i/adc/mpp_ad7190_4x/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 55 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/m/mpp_ec11_hc14a/"><img src="./img/i/m/mpp_ec11_hc14a/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/d/mpp_tlp290_24vin/"><img src="./img/i/d/mpp_tlp290_24vin/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 56 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/m/mpp_ec11_hc14a/"><img src="./img/i/m/mpp_ec11_hc14a/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/d/mpp_tlp290_24vin/"><img src="./img/i/d/mpp_tlp290_24vin/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 57 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/m/mpp_imk_6bt/"><img src="./img/i/m/mpp_imk_6bt/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/m/mpp_ec11_hc14a/"><img src="./img/i/m/mpp_ec11_hc14a/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 58 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/m/mpp_imk_6bt/"><img src="./img/i/m/mpp_imk_6bt/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/m/mpp_ec11_hc14a/"><img src="./img/i/m/mpp_ec11_hc14a/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 59 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/m/mpp_qwerty/"><img src="./img/i/m/mpp_qwerty/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/m/mpp_imk_6bt/"><img src="./img/i/m/mpp_imk_6bt/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 60 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../i/m/mpp_qwerty/"><img src="./img/i/m/mpp_qwerty/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/m/mpp_imk_6bt/"><img src="./img/i/m/mpp_imk_6bt/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 61 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f030fxpx/"><img src="./img/mcu/arm/mpp_stm32f030fxpx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/m/mpp_qwerty/"><img src="./img/i/m/mpp_qwerty/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 62 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f030fxpx/"><img src="./img/mcu/arm/mpp_stm32f030fxpx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../i/m/mpp_qwerty/"><img src="./img/i/m/mpp_qwerty/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 63 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f103cxtx/"><img src="./img/mcu/arm/mpp_stm32f103cxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f030f4p6/"><img src="./img/mcu/arm/mpp_stm32f030f4p6/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 64 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f103cxtx/"><img src="./img/mcu/arm/mpp_stm32f103cxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f030f4p6/"><img src="./img/mcu/arm/mpp_stm32f030f4p6/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 65 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f103zxtx/"><img src="./img/mcu/arm/mpp_stm32f103zxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f103cxtx/"><img src="./img/mcu/arm/mpp_stm32f103cxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 66 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f103zxtx/"><img src="./img/mcu/arm/mpp_stm32f103zxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f103cxtx/"><img src="./img/mcu/arm/mpp_stm32f103cxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 67 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f401cxux/"><img src="./img/mcu/arm/mpp_stm32f401cxux/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f103zxtx/"><img src="./img/mcu/arm/mpp_stm32f103zxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 68 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32f401cxux/"><img src="./img/mcu/arm/mpp_stm32f401cxux/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f103zxtx/"><img src="./img/mcu/arm/mpp_stm32f103zxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 69 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32g070cxtx/"><img src="./img/mcu/arm/mpp_stm32g070cxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f401cxux/"><img src="./img/mcu/arm/mpp_stm32f401cxux/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 70 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32g070cxtx/"><img src="./img/mcu/arm/mpp_stm32g070cxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32f401cxux/"><img src="./img/mcu/arm/mpp_stm32f401cxux/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 71 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32g431cxtx/"><img src="./img/mcu/arm/mpp_stm32g431cxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32g070cxtx/"><img src="./img/mcu/arm/mpp_stm32g070cxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 72 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/arm/mpp_stm32g431cxtx/"><img src="./img/mcu/arm/mpp_stm32g431cxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32g070cxtx/"><img src="./img/mcu/arm/mpp_stm32g070cxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 73 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/avr/mpp_atmega8_dip/"><img src="./img/mcu/avr/mpp_atmega8_dip/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32g431cxtx/"><img src="./img/mcu/arm/mpp_stm32g431cxtx/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 74 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/avr/mpp_atmega8_dip/"><img src="./img/mcu/avr/mpp_atmega8_dip/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/arm/mpp_stm32g431cxtx/"><img src="./img/mcu/arm/mpp_stm32g431cxtx/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 75 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/avr/mpp_atmega8_smd/"><img src="./img/mcu/avr/mpp_atmega8_smd/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/avr/mpp_atmega8_dip/"><img src="./img/mcu/avr/mpp_atmega8_dip/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 76 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../mcu/avr/mpp_atmega8_smd/"><img src="./img/mcu/avr/mpp_atmega8_smd/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/avr/mpp_atmega8_dip/"><img src="./img/mcu/avr/mpp_atmega8_dip/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 77 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../misc/mpp_ad9833/"><img src="./img/misc/mpp_ad9833/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/avr/mpp_atmega8_smd/"><img src="./img/mcu/avr/mpp_atmega8_smd/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 78 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../misc/mpp_ad9833/"><img src="./img/misc/mpp_ad9833/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../mcu/avr/mpp_atmega8_smd/"><img src="./img/mcu/avr/mpp_atmega8_smd/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 79 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../misc/mpp_fe1x1s/"><img src="./img/misc/mpp_fe1x1s/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../misc/mpp_ad9833/"><img src="./img/misc/mpp_ad9833/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 80 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../misc/mpp_fe1x1s/"><img src="./img/misc/mpp_fe1x1s/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../misc/mpp_ad9833/"><img src="./img/misc/mpp_ad9833/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 81 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../misc/mpp_si5351/"><img src="./img/misc/mpp_si5351/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../misc/mpp_fe1x1s/"><img src="./img/misc/mpp_fe1x1s/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 82 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../misc/mpp_si5351/"><img src="./img/misc/mpp_si5351/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../misc/mpp_fe1x1s/"><img src="./img/misc/mpp_fe1x1s/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 83 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../o/mpp_bts724g/"><img src="./img/o/mpp_bts724g/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../misc/mpp_si5351/"><img src="./img/misc/mpp_si5351/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 84 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../o/mpp_bts724g/"><img src="./img/o/mpp_bts724g/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../misc/mpp_si5351/"><img src="./img/misc/mpp_si5351/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 85 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../power/mpp_18650x2/"><img src="./img/power/mpp_18650x2/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../o/mpp_bts724g/"><img src="./img/o/mpp_bts724g/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 86 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../power/mpp_18650x2/"><img src="./img/power/mpp_18650x2/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../o/mpp_bts724g/"><img src="./img/o/mpp_bts724g/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 87 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../tools/00progr/mpp_stlink_v2x1/"><img src="./img/tools/00progr/mpp_stlink_v2x1/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../power/mpp_18650x2/"><img src="./img/power/mpp_18650x2/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 88 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../tools/00progr/mpp_stlink_v2x1/"><img src="./img/tools/00progr/mpp_stlink_v2x1/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../power/mpp_18650x2/"><img src="./img/power/mpp_18650x2/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 89 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../tools/00progr/mpp_stlink_v2x1_fw_jig/"><img src="./img/tools/00progr/mpp_stlink_v2x1_fw_jig/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../tools/00progr/mpp_stlink_v2x1/"><img src="./img/tools/00progr/mpp_stlink_v2x1/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 90 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../tools/00progr/mpp_stlink_v2x1_fw_jig/"><img src="./img/tools/00progr/mpp_stlink_v2x1_fw_jig/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../tools/00progr/mpp_stlink_v2x1/"><img src="./img/tools/00progr/mpp_stlink_v2x1/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 91 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../tools/01usb_uart/mpp_cp2102n/"><img src="./img/tools/01usb_uart/mpp_cp2102n/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../tools/00progr/mpp_stlink_v2x1_fw_jig/"><img src="./img/tools/00progr/mpp_stlink_v2x1_fw_jig/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 92 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../tools/01usb_uart/mpp_cp2102n/"><img src="./img/tools/01usb_uart/mpp_cp2102n/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../tools/00progr/mpp_stlink_v2x1_fw_jig/"><img src="./img/tools/00progr/mpp_stlink_v2x1_fw_jig/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 93 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
-    <a href="../tools/mpp_cy7c68013a_la/"><img src="./img/tools/mpp_cy7c68013a_la/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+    <a href="../tools/01usb_uart/mpp_cp2102n/"><img src="./img/tools/01usb_uart/mpp_cp2102n/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
   <!-- Ячейка 94 -->
+  <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
+    <a href="../tools/01usb_uart/mpp_cp2102n/"><img src="./img/tools/01usb_uart/mpp_cp2102n/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+  </div>
+  <!-- Ячейка 95 -->
+  <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
+    <a href="../tools/mpp_cy7c68013a_la/"><img src="./img/tools/mpp_cy7c68013a_la/img/001.png" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
+  </div>
+  <!-- Ячейка 96 -->
   <div style="display: flex; justify-content: center; align-items: center; background: #ffffff; padding: 10px; min-height: 250px;">
     <a href="../tools/mpp_cy7c68013a_la/"><img src="./img/tools/mpp_cy7c68013a_la/img/002.jpg" alt="" style="max-width: 100%; max-height: 250px; width: auto; height: auto; object-fit: contain;"></a>
   </div>
