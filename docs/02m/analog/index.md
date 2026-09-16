@@ -1,6 +1,9 @@
 ---
+nav_label: analog
 title: analog
-parent: input
+parent: modules
 nav_order: analog
 ---
+
+
 
